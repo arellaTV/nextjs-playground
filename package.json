@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-playground",
+  "version": "0.1.0",
+  "description": "Exploration of next js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arellaTV/nextjs-playground.git"
+  },
+  "author": "Jay Arella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arellaTV/nextjs-playground/issues"
+  },
+  "homepage": "https://github.com/arellaTV/nextjs-playground#readme",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
